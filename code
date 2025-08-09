@@ -1,179 +1,148 @@
 <html>
-<title style="text-align: center;font-size 50px">Roblox </title>
+<title>Roblox </title>
 
 
 
-<body style="font-family:mv boli;font-size 20px; background:grey">
-    <header>
-        <div style="text-align: center">
-            <img src="https://cdn.buttercms.com/ORMyMISWTDas1y0KNm0j" height="200px" width="350px"  </img src>
-        </div>
+<body style="font-family:mv boli; font-size 20px; background:grey">
+  <header style="text-align:center">
+
+    <img src="https://cdn.buttercms.com/ORMyMISWTDas1y0KNm0j" height="120px" width="150px"/>
+    <p>
+      <a href="#pizza">Work at a Pizza place</a>
+      <a href="#boat">Build A Boat For Treasure</a>
+      <a href="#DOOR">DOORS</a>
+      <a href="#Roblox">Бета-версія</a>
+    </p>
+  </header>
 
 
-    </header>
+  <main>
+    <img src="https://www.internetmatters.org/wp-content/uploads/2024/08/roblox.jpg" height="175px" width="275px"/>
 
 
-    <main>
-        <img src="https://www.internetmatters.org/wp-content/uploads/2024/08/roblox.jpg" height="175px" width="275
-        px"</img src>
+    <p id="Roblox"> Бета-версія Roblox була створена співзасновником Девідом Базукі у 2004 році[41].</p>
+    <p>Базукі почав тестувати перші демонстрації цього року[42].</p>
+
+    <p>У березні 2007 року Roblox став сумісним із COPPA, з додаванням безпечного чату, що обмежило користувачів
+      віком до тринадцяти років спілкуванням шляхом вибору попередньо визначених повідомлень з меню[43]. </p>
+    <p>У серпні розробники Roblox додали Клуб Будівельників, преміум-підписку та вдосконалили сервери[44].</p>
+
+    <p> У грудні 2011 року Roblox провів свій перший Hack Week, щорічний захід, на якому розробники Roblox працюють
+      над
+      інноваційними нестандартними ідеями для нових розробок, які будуть представлені компанії[45][46].</p>
+
+    <p> 11 грудня 2012 року Roblox випустив версію ігрової платформи для iOS[47].</p>
+
+    <p> 1 жовтня 2013 року Roblox випустив систему Developer Exchange, що дозволяє розробникам обмінювати Robux,
+      зароблені на своїх іграх, на реальну валюту[48].</p>
+
+    <p> 31 травня 2015 року було додано функцію, що збільшує графічну точність рельєфу та змінює фізичний движок з
+      блочно-орієнтованого стилю на більш плавний і більш реалістичний стиль[49].</p>
+    <p>20 листопада Roblox було запущено на
+      Xbox One з початковим вибором з 15 ігор, вибраних співробітниками Roblox[50].</p>
+    <p>Нові ігри Roblox для цієї консолі
+      повинні пройти процедуру затвердження та відповідати стандартам Ради з рейтингу розважального програмного
+      забезпечення[51].</p>
+
+    <p> У квітні 2016 року було запущено Roblox VR для Oculus Rift. На момент випуску більше десяти мільйонів ігор
+      були
+      доступні в 3D[52].
+    </p>
+    <p>списку для інших
+      користувачів[53].</p>
+    <p>У червні цього ж року компанія випустила версію, сумісну з Windows 10[54].</p>
+
+    <p> З 28 серпня 2019 року Roblox більше не підтримує Windows XP і Windows Vista[55].</p>
+
+  </main>
 
 
-        <p> Бета-версія Roblox була створена співзасновником Девідом Базукі у 2004 році[41].</p>
-        <p>Базукі почав тестувати перші демонстрації цього року[42].</p>
+  <footer>
+    <p>Один приклад з плейсів які на піку популярності</p>
+    <p>Steal a Brainrot — це симулятор / гра про магната , створена SpyderSammy. , співпрацюючи з do_small , під
+      егідою спільноти BRAZILIAN SPYDER та корпорації Do Big Studios .</p>
+    <p> Гравці можуть купувати, захищати та красти італійських персонажів-брейнротів.</p>
 
-        <p>У березні 2007 року Roblox став сумісним із COPPA, з додаванням безпечного чату, що обмежило користувачів
-            віком до тринадцяти років спілкуванням шляхом вибору попередньо визначених повідомлень з меню[43]. </p>
-        <p>У серпні розробники Roblox додали Клуб Будівельників, преміум-підписку та вдосконалили сервери[44].</p>
+    <img src="https://cdn.gamestatic.net/files/editor_uploads/NikolayD/2025/vse-sekretnye-brejnroty-v-roblox-steal-a-brainrot_1.jpg" height="175" width="235"/>
+    <a href="https://www.roblox.com/games/109983668079237/Steal-a-Brainrot">Ось посилання на цю гру</a>
+    <p>Спочатку ця була гра класною веселою.Але DO BIG Studios її зіпсувала і зіпсувала своїм донатом</p>
 
-        <p> У грудні 2011 року Roblox провів свій перший Hack Week, щорічний захід, на якому розробники Roblox працюють
-            над
-            інноваційними нестандартними ідеями для нових розробок, які будуть представлені компанії[45][46].</p>
-
-        <p> 11 грудня 2012 року Roblox випустив версію ігрової платформи для iOS[47].</p>
-
-        <p> 1 жовтня 2013 року Roblox випустив систему Developer Exchange, що дозволяє розробникам обмінювати Robux,
-            зароблені на своїх іграх, на реальну валюту[48].</p>
-
-        <p> 31 травня 2015 року було додано функцію, що збільшує графічну точність рельєфу та змінює фізичний движок з
-            блочно-орієнтованого стилю на більш плавний і більш реалістичний стиль[49].</p>
-        <p>20 листопада Roblox було запущено на
-            Xbox One з початковим вибором з 15 ігор, вибраних співробітниками Roblox[50].</p>
-        <p>Нові ігри Roblox для цієї консолі
-            повинні пройти процедуру затвердження та відповідати стандартам Ради з рейтингу розважального програмного
-            забезпечення[51].</p>
-
-        <p> У квітні 2016 року було запущено Roblox VR для Oculus Rift. На момент випуску більше десяти мільйонів ігор
-            були
-            доступні в 3D[52].
-        </p>
-        <p>списку для інших
-            користувачів[53].</p>
-        <p>У червні цього ж року компанія випустила версію, сумісну з Windows 10[54].</p>
-
-        <p> З 28 серпня 2019 року Roblox більше не підтримує Windows XP і Windows Vista[55].</p>
-
-    </main>
+    <a href="https://ru.wikipedia.org/wiki/Roblox">Посилання Вікіпедії</a>
 
 
-    <footer>
-        <p>Один приклад з плейсів які на піку популярності</p>
-        <p>Steal a Brainrot — це симулятор / гра про магната , створена SpyderSammy. , співпрацюючи з do_small , під
-            егідою спільноти BRAZILIAN SPYDER та корпорації Do Big Studios .</p>
-        <p> Гравці можуть купувати, захищати та красти італійських персонажів-брейнротів.</p>
-
-        <img src="https://cdn.gamestatic.net/files/editor_uploads/NikolayD/2025/vse-sekretnye-brejnroty-v-roblox-steal-a-brainrot_1.jpg" height="175" width="235"</img src>
-        <a href="https://www.roblox.com/games/109983668079237/Steal-a-Brainrot">Ось посилання на цю гру</a>
-        <p>Спочатку ця була гра класною веселою.Але DO BIG Studios її зіпсувала і зіпсувала своїм донатом</p>
-
-        <a href="https://ru.wikipedia.org/wiki/Roblox">Посилання Вікіпедії</a>
-        <style>
-  table {
-    border-collapse: collapse;
-    width: 80%;
-    margin: 20px auto;
-    font-family: Arial, sans-serif;
-    background-color: #f0eaff;
-    color: #333;
-    box-shadow: 0 0 10px rgba(100, 0, 200, 0.2);
-  }
-  caption {
-    caption-side: top;
-    font-size: 1.5em;
-    margin-bottom: 10px;
-    color: #4b0082;
-  }
-  th, td {
-    border: 1px solid #bfa8ff;
-    padding: 10px;
-    text-align: center;
-  }
-  th {
-    background-color: #d3bfff;
-    color: #2e004f;
-  }
-  tr:nth-child(even) {
-    background-color: #e9ddff;
-  }
-  tr:hover {
-    background-color: #cbbcff;
-  }
-</style>
-
-<table>
-  <caption style="font-size ">Топ Roblox ігор у 2025 році</caption>
-  <thead>
-    <tr>
-      <th>Назва гри</th>
-      <th>Жанр</th>
-      <th>Гравців онлайн</th>
-      <th>Рейтинг</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Blox Fruits</td>
-      <td>Пригоди / Бої</td>
-      <td>500,000+</td>
-      <td>🌟 95%</td>
-    </tr>
-    <tr>
-      <td>Brookhaven 🏡RP</td>
-      <td>Рольова</td>
-      <td>480,000+</td>
-      <td>🌟 92%</td>
-    </tr>
-    <tr>
-      <td>Pet Simulator 99</td>
-      <td>Симулятор</td>
-      <td>320,000+</td>
-      <td>🌟 90%</td>
-    </tr>
-    <tr>
-      <td>Doors 🚪</td>
-      <td>Хоррор</td>
-      <td>250,000+</td>
-      <td>🌟 96%</td>
-    </tr>
-    <tr>
-      <td>Combat Warriors</td>
-      <td>Екшен / PvP</td>
-      <td>180,000+</td>
-      <td>🌟 89%</td>
-      
-      
-    </tr>
-  </tbody>
-</table>
-<h2>Старі плейси в Roblox</h2>
-<p>1 МІСЦЕ Doors</p>
-<a href="https://www.roblox.com/games/6516141723/DOORS">Силка тут</a>
-<img src="https://tr.rbxcdn.com/180DAY-32f3e1bdc99b2b6759303326667df43b/768/432/Image/Webp/noFilter" height="235px" width="365"</img src>
-<p>Doors - весела і водночас страшна гра в Роблокс, що заслужила свою популярність за рахунок якісної реалізації незвичайного сеттингу.</p>
-<p> 2 МІСЦЕ Build A Boat For Treasure</p>
-<a href="https://www.roblox.com/games/537413528/Build-A-Boat-For-Treasure">посилання</a>
-
-  <img src="data:image/jpeg;base64,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"></img src>
- <p>У грі «Build A Boat For Treasure» головна мета гравця — дістатися до кінця карти на човні та здобути скарб .</p>
-
-<p>Гравці можуть будувати човни , працювати в командах та виконувати завдання .</p>
-<p>3 МІСЦЕ  The Work The Pizza place</p>
-<a href="https://www.roblox.com/games/192800/Work-at-a-Pizza-Place">Посилання на Гру</a>
-<img src="https://learn.logikaschool.com/uploads/student/5237918/6896f6a746c2d.webp" height="225px" width="335" </img src>
-<p>Work at a Pizza Place (укр. Працюй у піцерії) - це плейс, створений 28 листопада 2007 гравцем Dued1Веріфікований.</p> <p>Плейс досі оновлюється своїм творцем.</p> <p>Станом на 15 вересня 2024 року, плейс був доданий до обраних більше 12.6M+ разів.</p> <p>Дуже популярний плейс.</p>
-<h1>Підготовлено учнем Бехом Іваном</h1>
-  <h1>Якщо з'являться баги повідомте мене за номером 098 558 86 81</h1>
+    <table style="border:1px solid green">
+      <caption style="font-size ">Топ Roblox ігор у 2025 році</caption>
+      <thead>
+        <tr style="border:1px solid green">
+          <th>Назва гри</th>
+          <th>Жанр</th>
+          <th>Гравців онлайн</th>
+          <th>Рейтинг</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr style="border:1px solid green">
+          <td style="border:1px solid green">Blox Fruits</td>
+          <td style="border:1px solid green">Пригоди / Бої</td>
+          <td style="border:1px solid green">500,000+</td>
+          <td style="border:1px solid green">🌟 95%</td>
+        </tr>
+        <tr style="border:1px solid green">
+          <td style="border:1px solid green">Brookhaven 🏡RP</td>
+          <td style="border:1px solid green">Рольова</td>
+          <td style="border:1px solid green">480,000+</td>
+          <td style="border:1px solid green">🌟 92%</td>
+        </tr>
+        <tr style="border:1px solid green">
+          <td style="border:1px solid green">Pet Simulator 99</td>
+          <td style="border:1px solid green">Симулятор</td>
+          <td style="border:1px solid green">320,000+</td>
+          <td style="border:1px solid green">🌟 90%</td>
+        </tr>
+        <tr style="border:1px solid green">
+          <td style="border:1px solid green">Doors 🚪</td>
+          <td style="border:1px solid green">Хоррор</td>
+          <td style="border:1px solid green">250,000+</td>
+          <td style="border:1px solid green">🌟 96%</td>
+        </tr>
+        <tr style="border:1px solid green">
+          <td style="border:1px solid green">Combat Warriors</td>
+          <td style="border:1px solid green">Екшен / PvP</td>
+          <td style="border:1px solid green">180,000+</td>
+          <td style="border:1px solid green">🌟 89%</td>
 
 
-
-
-
-
-  
-
-
-    </footer>
+        </tr>
+      </tbody>
+    </table>
+    <h2>Старі плейси в Roblox</h2>
+    <p>1 МІСЦЕ Doors</p>
     
-      
+    <img src="https://tr.rbxcdn.com/180DAY-32f3e1bdc99b2b6759303326667df43b/768/432/Image/Webp/noFilter" height="235px" width="365"/>
+    <p><a href="https://www.roblox.com/games/6516141723/DOORS">Силка тут</a></p>
+    <p id="DOOR">Doors - весела і водночас страшна гра в Роблокс, що заслужила свою популярність за рахунок якісної реалізації
+      незвичайного сеттингу.</p>
+    <p> 2 МІСЦЕ Build A Boat For Treasure</p>
+    <a href="https://www.roblox.com/games/537413528/Build-A-Boat-For-Treasure">посилання</a>
+
+    <img src="https://learn.logikaschool.com/uploads/student/5237918/6896fa7b93826.jpg"/>
+    
+    <p id="boat">У грі «Build A Boat For Treasure» головна мета гравця — дістатися до кінця карти на човні та здобути скарб .</p>
+
+    <p>Гравці можуть будувати човни , працювати в командах та виконувати завдання .</p>
+    <p>3 МІСЦЕ The Work The Pizza place</p>
+    <p><a href="https://www.roblox.com/games/192800/Work-at-a-Pizza-Place">Посилання на Гру</a></p>
+    <img src="https://learn.logikaschool.com/uploads/student/5237918/6896f6a746c2d.webp" height="225px" width="335" </img src>
+    <p id="pizza">Work at a Pizza Place (укр. Працюй у піцерії) - це плейс, створений 28 листопада 2007 гравцем
+      Dued1Веріфікований.</p>
+    <p>Плейс досі оновлюється своїм творцем.</p>
+    <p>Станом на 15 вересня 2024 року, плейс був доданий до обраних більше 12.6M+ разів.</p>
+    <p>Дуже популярний плейс.</p>
+    <h1>Підготовлено учнем Бехом Іваном</h1>
+    <h1>Якщо з'являться баги повідомте мене за номером 098 558 86 81</h1>
+  </footer>
+
+
 </body>
 
 </html>
